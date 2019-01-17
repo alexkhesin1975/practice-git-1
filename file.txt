@@ -1,4 +1,5 @@
 my first file in project
- london is a capital of gw
-moscow is a capital of russia
+<<<<<<< HEAD
 paris is a capital of france
+=======
+>>>>>>> parent of 094b0d6... capitals added
