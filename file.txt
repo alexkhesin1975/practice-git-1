@@ -3,3 +3,5 @@ my first file in project
 paris is a capital of france
 =======
 >>>>>>> parent of 094b0d6... capitals added
+somthing
+somthing2
