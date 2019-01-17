@@ -1,3 +1,4 @@
 my first file in project
  london is a capital of gw
 moscow is a capital of russia
+paris is a capital of france
